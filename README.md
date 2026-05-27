@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="300" src="/images/Security-Awareness-Calculator.png">
+  <img width="300" height="300" src="/Images/Security-Awareness-Calculator.png">
 </p>
 
 # Security Awareness Calculator

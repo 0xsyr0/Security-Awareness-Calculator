@@ -1,0 +1,14 @@
+{
+    "name": "security-awareness-calculator-weaponized",
+    "displayName": "Security Awareness Calculator Weaponized",
+    "description": "⚠️ Security Awareness PoC — For authorised testing only. See https://github.com/0xsyr0/AwarenessCalculator",
+    "version": "0.0.1",
+    "publisher": "syro",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "activationEvents": ["*"],
+    "main": "./extension.js",
+    "contributes": {}
+}

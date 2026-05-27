@@ -513,12 +513,4 @@ venv/
 - [SLSA Framework — Supply Chain Levels for Software Artifacts](https://slsa.dev)
 - [OpenSSF Scorecard — Assessing open source project security](https://securityscorecards.dev)
 
----
-
-## Author
-
-purplestorm
-https://github.com/0xsyr0/Security-Awareness-Calculator
-
-For contact and responsible disclosure refer to the organisation's security
 contact page.

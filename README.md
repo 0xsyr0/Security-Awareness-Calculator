@@ -512,5 +512,3 @@ venv/
 - [Software Supply Chain Security Report 2026 — ReversingLabs](https://www.reversinglabs.com)
 - [SLSA Framework — Supply Chain Levels for Software Artifacts](https://slsa.dev)
 - [OpenSSF Scorecard — Assessing open source project security](https://securityscorecards.dev)
-
-contact page.
